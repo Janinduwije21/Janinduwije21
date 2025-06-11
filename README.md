@@ -22,14 +22,6 @@ I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionat
 
 ---
 
-## 🧩 Projects
-
-| Name | Description | Stack |
-|------|-------------|-------|
-| [Tea smart Ui](https://www.figma.com/design/7h9iQ7HFtaUVPxwrp9M4T6/Tea-smart--Copy-?node-id=0-1&t=Nb1Mb9INZ1G9qaEl-1) | Reusable components for designers | Figma |
-
----
-
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: [your-portfolio-link.com](#)  
