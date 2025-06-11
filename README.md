@@ -1,42 +1,43 @@
-# 👋 Hi, I'm 
+# 👋 Hi, I'm Janindu
 
-I'm a passionate **UI/UX enthusiast** and **front-end developer** focused on crafting beautiful, user-friendly digital experiences. This repository is a living portfolio of who I am, what I do, and what I love building.
-
----
-
-## ✨ About Me
-
-- 🎨 UI/UX Design Lover
-- 💻 Front-End Developer (HTML, CSS, JavaScript, React, etc.)
-- 🧠 Always learning and experimenting with design systems and web technologies
-- 🌍 Based in [Your Location]
+I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionate about creating intuitive, user-focused web experiences. This repo is my digital workspace—where code meets creativity.
 
 ---
 
-## 🚀 My Skills
+## 🔧 Tech Stack
 
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Tools:** React, Tailwind CSS, Figma, Git, VS Code
-- **UI/UX:** Wireframing, Prototyping, Accessibility, Responsive Design
-
----
-
-## 📁 Projects
-
-| Project | Description |
-|--------|-------------|
-| [Project 1](#) | A sleek landing page for a product. |
-| [Project 2](#) | A React-based dashboard with dark/light mode. |
-| [Project 3](#) | A UI kit for rapid prototyping in Figma. |
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks & Libraries:** React, Tailwind CSS  
+- **Design Tools:** Figma, Adobe XD  
+- **Others:** Git, VS Code, REST APIs
 
 ---
 
-## 📫 Contact Me
+## 💡 What I Do
 
-- Portfolio: [your-portfolio-link.com](#)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Build responsive, accessible UIs
+- Design and prototype with user-first thinking
+- Collaborate with developers and designers to ship meaningful products
+- Continuously explore new tools and best practices in front-end dev & UX
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+## 🧩 Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| [Landing Page](#) | Modern product landing page | HTML, CSS, JS |
+| [Dashboard UI](#) | React dashboard with theme toggle | React, Tailwind |
+| [Figma UI Kit](#) | Reusable components for designers | Figma |
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: [your-portfolio-link.com](#)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+> “Design is how it works.” – Steve Jobs
