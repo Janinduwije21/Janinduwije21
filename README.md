@@ -25,7 +25,7 @@ I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionat
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: [your-portfolio-link.com](#)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/janindu-wijesooriya-bb459a1b0/](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/janindu-wijesooriya-bb459a1b0/]
 - 📧 Email: [janinduwije21@gmail.com](mailto:your.email@example.com)
 
 ---
