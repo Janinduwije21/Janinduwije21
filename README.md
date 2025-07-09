@@ -31,3 +31,9 @@ I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionat
 ---
 
 > “Design is how it works.” – Steve Jobs
+
+<h1 align="left"><u>Github stats</u></h1>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kavindumal/kavindumal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
