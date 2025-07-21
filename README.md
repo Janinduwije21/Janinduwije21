@@ -40,8 +40,14 @@ I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionat
 - 💼 LinkedIn: [https://www.linkedin.com/in/janindu-wijesooriya-bb459a1b0/]
 - 📧 Email: [janinduwije21@gmail.com]
 
+---
 
-<h1 align="left"><u>Github stats</u></h1>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janinduwije21&show_icons=true&theme=radical" alt="Janindu's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janinduwije21&layout=compact&theme=radical" alt="Janindu's Top Languages" height="165">
+</p>
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/kavindumal/kavindumal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
