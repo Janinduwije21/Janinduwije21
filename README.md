@@ -20,7 +20,7 @@ I'm a **UI/UX enthusiast** and **front-end developer** from Sri Lanka, passionat
 
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript  
 - **Frameworks & Libraries:** React, Tailwind CSS  
-- **Design Tools:** Figma, Adobe XD  
+- **Design Tools:** Figma
 - **Others:** Git, VS Code, REST APIs
 
 ---
